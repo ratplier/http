@@ -1,0 +1,6 @@
+{
+  "name": "http",
+  "tree": {
+    "$path": "src/http.luau"
+  }
+}
